@@ -1,0 +1,35 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Dependências e build
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.cache/
+dist/
+_site/
+
+# Hospedagem
+.vercel/
+.netlify/
+.env
+.env.*
+
+# Ferramentas
+.claude/
+
+# Arquivos-fonte da marca (acervo do cliente, não usados pelo site)
+design/
+
+*.log
+*.tmp
